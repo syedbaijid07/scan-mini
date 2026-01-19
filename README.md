@@ -9,7 +9,7 @@ I made these scripts because I wanted to automate my Nmap workflow. Instead of t
   *Time:* **2-10 minutes** (depending on the network speed).
 
 ## Setup
-1. Clone it: `git clone https://github.com/YOUR_USERNAME/Scan-Max.git`
+1. Clone it: `git clone https://github.com/syedbaijid07/scan-mini`
 2. Run Scan-Mini: `sudo python3 scan-mini.py`
 3. Run Scan-Max: `sudo python3 scan-max.py`
 
