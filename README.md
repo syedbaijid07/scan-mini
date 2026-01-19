@@ -1,4 +1,4 @@
-# Scan-Max & Scan-Mini 🚀
+# Scan-Mini 
 
 I made these scripts because I wanted to automate my Nmap workflow. Instead of typing complex commands every time, I can just run one of these scripts.
 
